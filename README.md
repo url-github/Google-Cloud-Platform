@@ -1,1 +1,1 @@
-# Google-Cloud-Platform-GCP-
+# Google-Cloud-Platform
